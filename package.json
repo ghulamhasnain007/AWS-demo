@@ -1,5 +1,16 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.0"
-  }
+  },
+  "name": "aws-demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
